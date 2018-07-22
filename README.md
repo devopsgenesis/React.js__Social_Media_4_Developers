@@ -20,4 +20,9 @@ App live at heroku link:-
 https://calm-retreat-93373.herokuapp.com/dashboard
 
 # Feedbacks at vtechguys@gmail.com
-# Removed keys please put your keys in #/config/keys/keys_dev.js MONGO_URI to your db link...
+Removed keys please put your keys in #/config/keys/keys_dev.js 
+
+as
+
+MONGO_URI => db link...
+SecretOrKey => Your key...
