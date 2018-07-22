@@ -18,4 +18,6 @@ Run npm audit fix to fix any vunerablities in location where error pop.
 
 App live at heroku link:-
 https://calm-retreat-93373.herokuapp.com/dashboard
-#NOTE you must have React tools and Redux dev tools intalled as extensions in browser code was uploaded as in dev mode.
+
+# Feedbacks at vtechguys@gmail.com
+# Removed keys please put your keys in #/config/keys/keys_dev.js MONGO_URI to your db link...
